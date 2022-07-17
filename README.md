@@ -5,3 +5,5 @@
   
   Wiki 链接：https://github.com/Harryx2019/PRML2022/wiki/2022-7-10-%E7%AC%AC%E4%B8%80%E8%AE%B2-Introduction
 + 2022/7/17 第二章 Probability Distributions
+
+  Wiki 链接：https://github.com/Harryx2019/PRML2022/wiki/2022-7-17-%E7%AC%AC%E4%BA%8C%E8%AE%B2-Probability-Distributions
